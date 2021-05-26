@@ -8,3 +8,4 @@ Some unity tools and other useful stuff that I can eventually reuse
 - Simple Camera Shake => A script to make a simple camera shake.
 - Singleton => Some implementations of the Singleton design pattern.
 - Unity Flags => Tool for use enums as flags.
+- Moving Platform 2D => A script to move an object through a path of waypoints.
